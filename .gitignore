@@ -2,8 +2,6 @@
 output/
 __pycache__/
 *.pyc
-*.png
-*.csv
 *.mp4
 *.mp4.zip
 .DS_Store
