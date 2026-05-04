@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+openai
+transformers
+accelerate
+bitsandbytes
+synthcity
+torch
+torchvision
+torchaudio
+python-dotenv
